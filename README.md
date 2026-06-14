@@ -10,7 +10,9 @@
 ![Lead Quality](Lead%20Quality%20Analysis.png)
 
 ### Trend Analysis
-![Trend Analysis](Trend%20Analysis.png)# Marketing Funnel & Lead Conversion Analysis Dashboard
+![Trend Analysis](Trend%20Analysis.png)
+
+# Marketing Funnel & Lead Conversion Analysis Dashboard
 
 ## Project Overview
 
