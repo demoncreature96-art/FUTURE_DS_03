@@ -1,4 +1,16 @@
-# Marketing Funnel & Lead Conversion Analysis Dashboard
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](Executive%20Summary.png)
+
+### Channel Performance Analysis
+![Channel Performance](Channel%20Performance%20Analysis.png)
+
+### Lead Quality Analysis
+![Lead Quality](Lead%20Quality%20Analysis.png)
+
+### Trend Analysis
+![Trend Analysis](Trend%20Analysis.png)# Marketing Funnel & Lead Conversion Analysis Dashboard
 
 ## Project Overview
 
