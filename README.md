@@ -26,17 +26,6 @@ The dashboard was developed using Power BI and Python.
 
 ---
 
-## Tools Used
-
-- Power BI
-- Python
-- Pandas
-- DAX
-- Data Visualization
-- Marketing Analytics
-
----
-
 ## Business Questions
 
 - Where are users dropping off in the funnel?
@@ -61,10 +50,13 @@ Main tables analyzed:
 
 ## Tools Used
 
-- Python (Pandas)
 - Power BI
-- DAX
 - GitHub
+- Python
+- Pandas
+- DAX
+- Data Visualization
+- Marketing Analytics
 
 ---
 
